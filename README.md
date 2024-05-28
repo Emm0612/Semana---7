@@ -1,4 +1,3 @@
-# Semana---7
 
 <!DOCTYPE html>
 <html lang="es">
